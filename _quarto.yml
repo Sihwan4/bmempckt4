@@ -10,12 +10,13 @@ website:
       - about.qmd
 
 format:
-  html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
+  revealjs:
+    theme: simple
+    slide-number: true
+    css: style.css
+    chalkboard: true
+    # embed-resources: true
+    editor: visual
 
 editor: visual
 
