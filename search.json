@@ -4,210 +4,210 @@
     "href": "page2.html#slide-1-title",
     "title": "Tbet+ B memory",
     "section": "Slide 1: Title",
-    "text": "Slide 1: Title\nT-bet+ CD27+ CD21- B cells poised for plasma cell differentiation during antibody-mediated rejection of kidney transplants\n\n부제: 이식된 신장을 공격하는 숨은 주범, AM B세포를 찾아서\n발표자: Gemini\n출처: JCI Insight, 2021\n핵심 키워드: Kidney Transplantation, Antibody-Mediated Rejection (ABMR), T-bet, Activated Memory B cells"
+    "text": "Slide 1: Title\nT-bet+ CD27+ CD21- B cells poised for plasma cell differentiation during antibody-mediated rejection of kidney transplants\n부제: 이식된 신장을 공격하는 숨은 주범, AM B세포를 찾아서\n\n발표자: Gemini\n출처: JCI Insight, 2021\n핵심 키워드: Kidney Transplantation, Antibody-Mediated Rejection (ABMR), T-bet, Activated Memory B cells"
   },
   {
     "objectID": "page2.html#slide-2-연구-배경---신장-이식의-적-abmr",
     "href": "page2.html#slide-2-연구-배경---신장-이식의-적-abmr",
     "title": "Tbet+ B memory",
     "section": "Slide 2: 연구 배경 - 신장 이식의 적, ABMR",
-    "text": "Slide 2: 연구 배경 - 신장 이식의 적, ABMR\n\n항체 매개 거부 반응(ABMR)이란 무엇인가?\n정의: 공여자 특이 항체(DSA, Donor-Specific Antibodies)가 이식된 장기를 공격하여 발생하는 거부 반응입니다.\n임상적 중요성:\n\n장기 생존을 저해하는 가장 큰 원인 중 하나입니다.\n미세혈관 염증 및 동맥염을 유발하며, 예후가 좋지 않습니다.\n\n문제점: DSA가 발생하고 ABMR로 진행되는 과정의 세포학적 기전이 불명확했습니다."
+    "text": "Slide 2: 연구 배경 - 신장 이식의 적, ABMR\n항체 매개 거부 반응(ABMR)이란 무엇인가?\n\n정의: 공여자 특이 항체(DSA, Donor-Specific Antibodies)가 이식된 장기를 공격하여 발생하는 거부 반응입니다.\n임상적 중요성:\n\n장기 생존을 저해하는 가장 큰 원인 중 하나입니다.\n미세혈관 염증 및 동맥염을 유발하며, 예후가 좋지 않습니다.\n\n문제점: DSA가 발생하고 ABMR로 진행되는 과정의 세포학적 기전이 불명확했습니다."
   },
   {
     "objectID": "page2.html#slide-3-기존-지식의-한계",
     "href": "page2.html#slide-3-기존-지식의-한계",
     "title": "Tbet+ B memory",
     "section": "Slide 3: 기존 지식의 한계",
-    "text": "Slide 3: 기존 지식의 한계\n\n우리는 범인을 안다고 생각했지만…\n알려진 사실:\n\n이식 후 DSA의 발생은 예후 불량의 신호입니다.\n공여자 HLA에 특이적인 B세포가 거부 반응 전에 증식한다는 것은 밝혀졌습니다.\n\n미해결 과제 (Unmet Needs):\n\n수많은 B세포 아형(Subsets) 중 정확히 어떤 세포가 DSA 반응을 주도하는가?\n단순히 ‘기억 B세포(Memory B Cell)’ 전체가 문제인가, 아니면 특정 ‘나쁜 녀석들’이 따로 있는가?"
+    "text": "Slide 3: 기존 지식의 한계\n우리는 범인을 안다고 생각했지만…\n\n알려진 사실:\n\n이식 후 DSA의 발생은 예후 불량의 신호입니다.\n공여자 HLA에 특이적인 B세포가 거부 반응 전에 증식한다는 것은 밝혀졌습니다.\n\n미해결 과제 (Unmet Needs):\n\n수많은 B세포 아형(Subsets) 중 정확히 어떤 세포가 DSA 반응을 주도하는가?\n단순히 ‘기억 B세포(Memory B Cell)’ 전체가 문제인가, 아니면 특정 ‘나쁜 녀석들’이 따로 있는가?"
   },
   {
     "objectID": "page2.html#slide-4-연구-가설-및-접근",
     "href": "page2.html#slide-4-연구-가설-및-접근",
     "title": "Tbet+ B memory",
     "section": "Slide 4: 연구 가설 및 접근",
-    "text": "Slide 4: 연구 가설 및 접근\n\n\n단서: ’T-bet’이라는 표식\nT-bet이란?: 주로 T세포에 있는 전사 인자지만, 특정 상황에서 B세포에서도 발현됩니다.\n타 질환에서의 단서:\n\n만성 감염(HIV, 말라리아)이나 자가면역 질환(루푸스)에서 T-bet을 발현하는 CD21- B세포가 발견됩니다.\n이들은 염증성이고, 나이가 들수록 증가하는 경향이 있습니다.\n\n가설 (Hypothesis):\n\n“신장 이식 환자의 ABMR 발생 과정에서도 T-bet을 발현하는 특정 B세포가 핵심 역할을 하지 않을까?”"
+    "text": "Slide 4: 연구 가설 및 접근\n단서: ’T-bet’이라는 표식\n\n\nT-bet이란?: 주로 T세포에 있는 전사 인자지만, 특정 상황에서 B세포에서도 발현됩니다.\n타 질환에서의 단서:\n\n만성 감염(HIV, 말라리아)이나 자가면역 질환(루푸스)에서 T-bet을 발현하는 CD21- B세포가 발견됩니다.\n이들은 염증성이고, 나이가 들수록 증가하는 경향이 있습니다.\n\n가설 (Hypothesis):\n\n“신장 이식 환자의 ABMR 발생 과정에서도 T-bet을 발현하는 특정 B세포가 핵심 역할을 하지 않을까?”"
   },
   {
     "objectID": "page2.html#slide-5-연구-코호트-및-방법",
     "href": "page2.html#slide-5-연구-코호트-및-방법",
     "title": "Tbet+ B memory",
     "section": "Slide 5: 연구 코호트 및 방법",
-    "text": "Slide 5: 연구 코호트 및 방법\n\n\n96명의 환자를 정밀 분석하다\n연구 대상 (n=96):\n\nDSA- (n=48): DSA 없음, 거부 반응 없음 (안정군)\nDSA+ ABMR- (n=28): DSA는 있지만 거부 반응은 없음\nDSA+ ABMR+ (n=20): DSA가 있고 거부 반응(ABMR) 발생\n\n분석 방법:\n\n혈액(PBMC): 고차원 유세포 분석(High-dimensional flow cytometry) 및 세포 선별(Sorting).\n조직(Biopsy): 신장 이식 조직의 RNA-Seq 및 면역형광염색.\n기능(Function): T세포와의 공배양(Co-culture)을 통한 항체 생산능 확인."
+    "text": "Slide 5: 연구 코호트 및 방법\n96명의 환자를 정밀 분석하다\n\n\n연구 대상 (n=96):\n\nDSA- (n=48): DSA 없음, 거부 반응 없음 (안정군)\nDSA+ ABMR- (n=28): DSA는 있지만 거부 반응은 없음\nDSA+ ABMR+ (n=20): DSA가 있고 거부 반응(ABMR) 발생\n\n분석 방법:\n\n혈액(PBMC): 고차원 유세포 분석(High-dimensional flow cytometry) 및 세포 선별(Sorting).\n조직(Biopsy): 신장 이식 조직의 RNA-Seq 및 면역형광염색.\n기능(Function): T세포와의 공배양(Co-culture)을 통한 항체 생산능 확인."
   },
   {
     "objectID": "page2.html#slide-6-b세포-프로파일링-t-sne",
     "href": "page2.html#slide-6-b세포-프로파일링-t-sne",
     "title": "Tbet+ B memory",
     "section": "Slide 6: B세포 프로파일링 (t-SNE)",
-    "text": "Slide 6: B세포 프로파일링 (t-SNE)\n\n거부 반응 환자에서만 보이는 독특한 패턴\nt-SNE 분석 결과:\n\n모든 B세포 데이터를 시각화했을 때, DSA+ ABMR+ 환자군에서만 뚜렷하게 구별되는 세포 클러스터가 발견되었습니다.\n건강한 대조군(HC)이나 DSA- 환자군에서는 거의 보이지 않는 집단입니다.\n\n시각적 특징:\n\n기존의 B세포 분포와는 확연히 다른 위치에 ’섬’처럼 존재합니다 (Figure 1B 참조)."
+    "text": "Slide 6: B세포 프로파일링 (t-SNE)\n거부 반응 환자에서만 보이는 독특한 패턴\n\nt-SNE 분석 결과:\n\n모든 B세포 데이터를 시각화했을 때, DSA+ ABMR+ 환자군에서만 뚜렷하게 구별되는 세포 클러스터가 발견되었습니다.\n건강한 대조군(HC)이나 DSA- 환자군에서는 거의 보이지 않는 집단입니다.\n\n시각적 특징:\n\n기존의 B세포 분포와는 확연히 다른 위치에 ’섬’처럼 존재합니다 (Figure 1B 참조)."
   },
   {
     "objectID": "page2.html#slide-7-범인의-몽타주",
     "href": "page2.html#slide-7-범인의-몽타주",
     "title": "Tbet+ B memory",
     "section": "Slide 7: 범인의 몽타주",
-    "text": "Slide 7: 범인의 몽타주\n\n\n범인은 ‘T-bet+ CD21- B세포’\n표면 마커 분석 (Phenotyping):\n\nT-bet High: 강한 염증성 특징.\nCD21 Low: 활성화된 상태를 암시.\nCD11c+, CXCR3+: 조직으로 이동할 능력 보유.\n\n발견:\n\n기억 B세포(Memory B Cell, MBC) 구획 내에서 T-bet+ CD21- 세포의 비율이 ABMR 환자에서 최대 40%까지 치솟았습니다.\n일반적인 기억 세포(Resting Memory)와는 완전히 다른 특성을 보입니다."
+    "text": "Slide 7: 범인의 몽타주\n범인은 ‘T-bet+ CD21- B세포’\n\n\n표면 마커 분석 (Phenotyping):\n\nT-bet High: 강한 염증성 특징.\nCD21 Low: 활성화된 상태를 암시.\nCD11c+, CXCR3+: 조직으로 이동할 능력 보유.\n\n발견:\n\n기억 B세포(Memory B Cell, MBC) 구획 내에서 T-bet+ CD21- 세포의 비율이 ABMR 환자에서 최대 40%까지 치솟았습니다.\n일반적인 기억 세포(Resting Memory)와는 완전히 다른 특성을 보입니다."
   },
   {
     "objectID": "page2.html#slide-8-am-세포-vs-tlm-세포",
     "href": "page2.html#slide-8-am-세포-vs-tlm-세포",
     "title": "Tbet+ B memory",
     "section": "Slide 8: AM 세포 vs TLM 세포",
-    "text": "Slide 8: AM 세포 vs TLM 세포\n\n두 얼굴의 용의자: AM vs TLM\n\n연구진은 CD21- B세포를 CD27 발현 유무에 따라 두 그룹으로 더 세분화했습니다.\n\nAM (Activated Memory) B세포:\n\n\\(CD27^{+}\\) \\(CD21^{-}\\) \\(T-bet^{+}\\)\nABMR 환자에서 유의미하게 대폭 증가.\n\nTLM (Tissue-Like Memory) B세포:\n\n\\(CD27^{-}\\) \\(CD21^{-}\\) \\(T-bet^{++}\\)\nABMR 환자에서 증가하긴 했으나 AM만큼의 병인성(pathogenicity)이 의심됨."
+    "text": "Slide 8: AM 세포 vs TLM 세포\n두 얼굴의 용의자: AM vs TLM\n연구진은 CD21- B세포를 CD27 발현 유무에 따라 두 그룹으로 더 세분화했습니다.\n\nAM (Activated Memory) B세포:\n\n\\(CD27^{+}\\) \\(CD21^{-}\\) \\(T-bet^{+}\\)\nABMR 환자에서 유의미하게 대폭 증가.\n\nTLM (Tissue-Like Memory) B세포:\n\n\\(CD27^{-}\\) \\(CD21^{-}\\) \\(T-bet^{++}\\)\nABMR 환자에서 증가하긴 했으나 AM만큼의 병인성(pathogenicity)이 의심됨."
   },
   {
     "objectID": "page2.html#slide-9-am-세포의-강력한-활성-신호",
     "href": "page2.html#slide-9-am-세포의-강력한-활성-신호",
     "title": "Tbet+ B memory",
     "section": "Slide 9: AM 세포의 강력한 활성 신호",
-    "text": "Slide 9: AM 세포의 강력한 활성 신호\n\nAM 세포: “나는 싸울 준비가 되었다”\nCostimulatory 분자 발현:\n\nIL-21R (IL-21 수용체) High: T세포의 도움 신호를 받을 준비 완료.\nCD40 High: T세포와의 상호작용에 필수적인 수용체 증가.\n\n의미:\n\nAM 세포는 T 여포 보조 세포(\\(T_{FH}\\))와 소통하며 강력한 면역 반응을 일으킬 잠재력이 있습니다."
+    "text": "Slide 9: AM 세포의 강력한 활성 신호\nAM 세포: “나는 싸울 준비가 되었다”\n\nCostimulatory 분자 발현:\n\nIL-21R (IL-21 수용체) High: T세포의 도움 신호를 받을 준비 완료.\nCD40 High: T세포와의 상호작용에 필수적인 수용체 증가.\n\n의미:\n\nAM 세포는 T 여포 보조 세포(\\(T_{FH}\\))와 소통하며 강력한 면역 반응을 일으킬 잠재력이 있습니다."
   },
   {
     "objectID": "page2.html#slide-10-반면-tlm-세포는",
     "href": "page2.html#slide-10-반면-tlm-세포는",
     "title": "Tbet+ B memory",
     "section": "Slide 10: 반면, TLM 세포는?",
-    "text": "Slide 10: 반면, TLM 세포는?\n\nTLM 세포: “나는 지쳤다 (Exhausted)”\n억제 수용체 발현:\n\nAM 세포와 달리 CD72, FcRL5, CD32b와 같은 억제성 수용체(Inhibitory Receptors)를 높게 발현합니다.\nCD40 발현은 매우 낮습니다.\n\n특징:\n\n만성 감염 등에서 보이는 ‘탈진한(Exhausted)’ B세포와 유사합니다.\n즉, T-bet을 가졌다고 다 같은 범인이 아닙니다. 진범은 AM 세포입니다."
+    "text": "Slide 10: 반면, TLM 세포는?\nTLM 세포: “나는 지쳤다 (Exhausted)”\n\n억제 수용체 발현:\n\nAM 세포와 달리 CD72, FcRL5, CD32b와 같은 억제성 수용체(Inhibitory Receptors)를 높게 발현합니다.\nCD40 발현은 매우 낮습니다.\n\n특징:\n\n만성 감염 등에서 보이는 ‘탈진한(Exhausted)’ B세포와 유사합니다.\n즉, T-bet을 가졌다고 다 같은 범인이 아닙니다. 진범은 AM 세포입니다."
   },
   {
     "objectID": "page2.html#slide-11-section-2-요약",
     "href": "page2.html#slide-11-section-2-요약",
     "title": "Tbet+ B memory",
     "section": "Slide 11: Section 2 요약",
-    "text": "Slide 11: Section 2 요약\n\n범인 특정 완료\n누구인가?: \\(T-bet^{+}\\) \\(CD27^{+}\\) \\(CD21^{-}\\) Activated Memory (AM) B세포.\n어디에 있는가?: DSA가 있고 거부 반응(ABMR)이 발생한 환자의 혈액 속에 다량 존재.\n상태는?: T세포의 지원(IL-21, CD40L)을 받아 공격할 준비가 완료된 상태."
+    "text": "Slide 11: Section 2 요약\n범인 특정 완료\n\n누구인가?: \\(T-bet^{+}\\) \\(CD27^{+}\\) \\(CD21^{-}\\) Activated Memory (AM) B세포.\n어디에 있는가?: DSA가 있고 거부 반응(ABMR)이 발생한 환자의 혈액 속에 다량 존재.\n상태는?: T세포의 지원(IL-21, CD40L)을 받아 공격할 준비가 완료된 상태."
   },
   {
     "objectID": "page2.html#slide-12-전사체-분석-rna-seq",
     "href": "page2.html#slide-12-전사체-분석-rna-seq",
     "title": "Tbet+ B memory",
     "section": "Slide 12: 전사체 분석 (RNA-Seq)",
-    "text": "Slide 12: 전사체 분석 (RNA-Seq)\n\n유전자 분석: 형질 세포(Plasma Cell)가 될 운명\nAM 세포의 유전자 프로파일:\n\n세포 분열(Cell division), 체세포 과변이(Somatic hypermutation) 관련 유전자 활성.\n\n형질 세포 분화 인자:\n\nIRF4, Blimp1, XBP1 등 형질 세포로 분화하는 데 필수적인 전사 인자가 이미 높게 발현되고 있습니다.\n이는 AM 세포가 ’형질 세포 전구체(Precursor)’로서 Poised(대기 중인) 상태임을 의미합니다."
+    "text": "Slide 12: 전사체 분석 (RNA-Seq)\n유전자 분석: 형질 세포(Plasma Cell)가 될 운명\n\nAM 세포의 유전자 프로파일:\n\n세포 분열(Cell division), 체세포 과변이(Somatic hypermutation) 관련 유전자 활성.\n\n형질 세포 분화 인자:\n\nIRF4, Blimp1, XBP1 등 형질 세포로 분화하는 데 필수적인 전사 인자가 이미 높게 발현되고 있습니다.\n이는 AM 세포가 ’형질 세포 전구체(Precursor)’로서 Poised(대기 중인) 상태임을 의미합니다."
   },
   {
     "objectID": "page2.html#slide-13-공범의-존재-t_fh-세포",
     "href": "page2.html#slide-13-공범의-존재-t_fh-세포",
     "title": "Tbet+ B memory",
     "section": "Slide 13: 공범의 존재 (\\(T_{FH}\\) 세포)",
-    "text": "Slide 13: 공범의 존재 (\\(T_{FH}\\) 세포)\n\n공범: T 여포 보조 세포 (\\(T_{FH}\\))\nAM 세포의 파트너:\n\nABMR 환자에서는 \\(T_{FH}\\) 세포가 IL-21과 \\(IFN-\\gamma\\)를 과도하게 생산합니다.\n\n수용체 매칭:\n\nAM 세포는 \\(T_{FH}\\)가 분비하는 IL-21을 받아들일 수 있는 수용체(IL-21R)를 매우 높게 가지고 있습니다.\n또한 TBX21 (T-bet) 유전자가 IL-21 신호 관련 유전자의 프로모터에 결합하여 반응을 조절합니다."
+    "text": "Slide 13: 공범의 존재 (\\(T_{FH}\\) 세포)\n공범: T 여포 보조 세포 (\\(T_{FH}\\))\n\nAM 세포의 파트너:\n\nABMR 환자에서는 \\(T_{FH}\\) 세포가 IL-21과 \\(IFN-\\gamma\\)를 과도하게 생산합니다.\n\n수용체 매칭:\n\nAM 세포는 \\(T_{FH}\\)가 분비하는 IL-21을 받아들일 수 있는 수용체(IL-21R)를 매우 높게 가지고 있습니다.\n또한 TBX21 (T-bet) 유전자가 IL-21 신호 관련 유전자의 프로모터에 결합하여 반응을 조절합니다."
   },
   {
     "objectID": "page2.html#slide-14-실험실-재현-in-vitro",
     "href": "page2.html#slide-14-실험실-재현-in-vitro",
     "title": "Tbet+ B memory",
     "section": "Slide 14: 실험실 재현 (In vitro)",
-    "text": "Slide 14: 실험실 재현 (In vitro)\n\n실험: AM 세포와 T세포를 만나게 하다\n실험 설계:\n\n환자의 혈액에서 AM 세포와 자가 \\(cT_{FH}\\) 세포를 각각 분리(Sorting).\n이 둘을 6일간 함께 배양(Co-culture)하며, SEB(초항원)로 T세포를 자극.\n\n목적:\n\nAM 세포가 실제로 T세포의 도움을 받아 형질 세포로 변하는지 확인.\n실제 DSA(공여자 특이 항체)를 만들어내는지 확인."
+    "text": "Slide 14: 실험실 재현 (In vitro)\n실험: AM 세포와 T세포를 만나게 하다\n\n실험 설계:\n\n환자의 혈액에서 AM 세포와 자가 \\(cT_{FH}\\) 세포를 각각 분리(Sorting).\n이 둘을 6일간 함께 배양(Co-culture)하며, SEB(초항원)로 T세포를 자극.\n\n목적:\n\nAM 세포가 실제로 T세포의 도움을 받아 형질 세포로 변하는지 확인.\n실제 DSA(공여자 특이 항체)를 만들어내는지 확인."
   },
   {
     "objectID": "page2.html#slide-15-실험-결과-1---형질-세포-분화",
     "href": "page2.html#slide-15-실험-결과-1---형질-세포-분화",
     "title": "Tbet+ B memory",
     "section": "Slide 15: 실험 결과 1 - 형질 세포 분화",
-    "text": "Slide 15: 실험 결과 1 - 형질 세포 분화\n\nAM 세포의 변신\n결과:\n\nAM 세포는 \\(cT_{FH}\\)와 함께 배양했을 때 CD38+ CD27++ 형질 세포(Plasma Cell)로 가장 활발하게 분화했습니다.\n반면, TLM 세포는 형질 세포로 분화하지 못했습니다.\n\n의미:\n\n오직 AM 세포만이 항체를 생산하는 공장으로 변할 능력을 가지고 있습니다."
+    "text": "Slide 15: 실험 결과 1 - 형질 세포 분화\nAM 세포의 변신\n\n결과:\n\nAM 세포는 \\(cT_{FH}\\)와 함께 배양했을 때 CD38+ CD27++ 형질 세포(Plasma Cell)로 가장 활발하게 분화했습니다.\n반면, TLM 세포는 형질 세포로 분화하지 못했습니다.\n\n의미:\n\n오직 AM 세포만이 항체를 생산하는 공장으로 변할 능력을 가지고 있습니다."
   },
   {
     "objectID": "page2.html#slide-16-실험-결과-2---dsa-생산",
     "href": "page2.html#slide-16-실험-결과-2---dsa-생산",
     "title": "Tbet+ B memory",
     "section": "Slide 16: 실험 결과 2 - DSA 생산",
-    "text": "Slide 16: 실험 결과 2 - DSA 생산\n\n결정적 증거: DSA(항체) 검출\n배양액 분석:\n\nAM 세포 배양액에서만 높은 농도의 IgG가 검출되었습니다.\n놀랍게도, 환자의 이식 신장을 공격하는 공여자 특이 항체(DSA)가 AM 세포 배양액에서 확인되었습니다.\n\n결론:\n\nAM 세포 = DSA 생산 공장."
+    "text": "Slide 16: 실험 결과 2 - DSA 생산\n결정적 증거: DSA(항체) 검출\n\n배양액 분석:\n\nAM 세포 배양액에서만 높은 농도의 IgG가 검출되었습니다.\n놀랍게도, 환자의 이식 신장을 공격하는 공여자 특이 항체(DSA)가 AM 세포 배양액에서 확인되었습니다.\n\n결론:\n\nAM 세포 = DSA 생산 공장."
   },
   {
     "objectID": "page2.html#slide-17-il-21-신호-차단-실험",
     "href": "page2.html#slide-17-il-21-신호-차단-실험",
     "title": "Tbet+ B memory",
     "section": "Slide 17: IL-21 신호 차단 실험",
-    "text": "Slide 17: IL-21 신호 차단 실험\n\nIL-21을 막으면 공격이 멈춘다\n차단 실험 (Blocking Study):\n\n배양 실험에 IL-21R-Fc (IL-21 차단제)를 투여했습니다.\n\n결과:\n\n형질 세포 분화가 억제되었습니다.\nIgG 및 DSA 생산이 유의미하게 감소했습니다.\n\n치료적 시사점:\n\nIL-21 신호를 차단하는 것이 ABMR 치료의 열쇠가 될 수 있습니다."
+    "text": "Slide 17: IL-21 신호 차단 실험\nIL-21을 막으면 공격이 멈춘다\n\n차단 실험 (Blocking Study):\n\n배양 실험에 IL-21R-Fc (IL-21 차단제)를 투여했습니다.\n\n결과:\n\n형질 세포 분화가 억제되었습니다.\nIgG 및 DSA 생산이 유의미하게 감소했습니다.\n\n치료적 시사점:\n\nIL-21 신호를 차단하는 것이 ABMR 치료의 열쇠가 될 수 있습니다."
   },
   {
     "objectID": "page2.html#slide-18-section-3-요약",
     "href": "page2.html#slide-18-section-3-요약",
     "title": "Tbet+ B memory",
     "section": "Slide 18: Section 3 요약",
-    "text": "Slide 18: Section 3 요약\n\n작동 메커니즘 규명\n\n\nAM 세포는 Poised 상태 (형질 세포로 변할 준비 완료).\n\\(T_{FH}\\) 세포가 IL-21 신호를 보냄.\nAM 세포가 형질 세포로 분화.\nDSA(항체)를 대량 생산하여 신장을 공격."
+    "text": "Slide 18: Section 3 요약\n작동 메커니즘 규명\n\nAM 세포는 Poised 상태 (형질 세포로 변할 준비 완료).\n\\(T_{FH}\\) 세포가 IL-21 신호를 보냄.\nAM 세포가 형질 세포로 분화.\nDSA(항체)를 대량 생산하여 신장을 공격."
   },
   {
     "objectID": "page2.html#slide-19-임상-데이터와의-상관관계",
     "href": "page2.html#slide-19-임상-데이터와의-상관관계",
     "title": "Tbet+ B memory",
     "section": "Slide 19: 임상 데이터와의 상관관계",
-    "text": "Slide 19: 임상 데이터와의 상관관계\n\nAM 세포가 많을수록 더 위험하다\n상관관계 분석:\n\n혈액 내 AM 세포의 빈도(%)가 높을수록:\n\n혈청 DSA 수치(MFI)가 높습니다.\n조직학적 손상(미세혈관 염증, 동맥염)이 더 심각합니다.\n\n특히 병인성이 강한 IgG3 타입의 DSA 수치와 강한 상관관계를 보입니다."
+    "text": "Slide 19: 임상 데이터와의 상관관계\nAM 세포가 많을수록 더 위험하다\n\n상관관계 분석:\n\n혈액 내 AM 세포의 빈도(%)가 높을수록:\n\n혈청 DSA 수치(MFI)가 높습니다.\n조직학적 손상(미세혈관 염증, 동맥염)이 더 심각합니다.\n\n특히 병인성이 강한 IgG3 타입의 DSA 수치와 강한 상관관계를 보입니다."
   },
   {
     "objectID": "page2.html#slide-20-거부-반응-시기에-따른-차이",
     "href": "page2.html#slide-20-거부-반응-시기에-따른-차이",
     "title": "Tbet+ B memory",
     "section": "Slide 20: 거부 반응 시기에 따른 차이",
-    "text": "Slide 20: 거부 반응 시기에 따른 차이\n\n초기 vs 후기 거부 반응의 차이\nEarly ABMR (&lt;3개월):\n\n주로 IgD- (Switched) AM 세포가 우세.\n이식 전 이미 형성된 기억 반응(Preformed DSA)과 관련.\n\nLate ABMR (&gt;3개월):\n\nIgD+ (Unswitched) AM 세포가 많이 발견됨.\n새로 만들어진(De novo) DSA 반응과 관련됨."
+    "text": "Slide 20: 거부 반응 시기에 따른 차이\n초기 vs 후기 거부 반응의 차이\n\nEarly ABMR (&lt;3개월):\n\n주로 IgD- (Switched) AM 세포가 우세.\n이식 전 이미 형성된 기억 반응(Preformed DSA)과 관련.\n\nLate ABMR (&gt;3개월):\n\nIgD+ (Unswitched) AM 세포가 많이 발견됨.\n새로 만들어진(De novo) DSA 반응과 관련됨."
   },
   {
     "objectID": "page2.html#slide-21-범죄-현장-급습-신장-조직",
     "href": "page2.html#slide-21-범죄-현장-급습-신장-조직",
     "title": "Tbet+ B memory",
     "section": "Slide 21: 범죄 현장 급습 (신장 조직)",
-    "text": "Slide 21: 범죄 현장 급습 (신장 조직)\n\n신장 조직 내부로 침투한 AM 세포\n다중 면역형광염색 (Multiplex IF):\n\n거부 반응이 일어난 환자의 신장 조직에서 \\(CD20^{+} CD27^{+} T-bet^{+}\\) 세포가 발견되었습니다.\n안정적인 환자(DSA-)의 조직에서는 발견되지 않았습니다.\n\n위치:\n\n주로 염증 세포가 침윤된 간질(Interstitium) 부위에서 확인되었습니다."
+    "text": "Slide 21: 범죄 현장 급습 (신장 조직)\n신장 조직 내부로 침투한 AM 세포\n\n다중 면역형광염색 (Multiplex IF):\n\n거부 반응이 일어난 환자의 신장 조직에서 \\(CD20^{+} CD27^{+} T-bet^{+}\\) 세포가 발견되었습니다.\n안정적인 환자(DSA-)의 조직에서는 발견되지 않았습니다.\n\n위치:\n\n주로 염증 세포가 침윤된 간질(Interstitium) 부위에서 확인되었습니다."
   },
   {
     "objectID": "page2.html#slide-22-조직-내-유전자-분석",
     "href": "page2.html#slide-22-조직-내-유전자-분석",
     "title": "Tbet+ B memory",
     "section": "Slide 22: 조직 내 유전자 분석",
-    "text": "Slide 22: 조직 내 유전자 분석\n\n조직에서도 확인된 ‘AM의 흔적’\n이식 신장 생검(Biopsy) RNA-Seq:\n\nABMR 환자의 신장 조직에서 TBX21 (T-bet), CD27, IL-21R 유전자 발현이 유의하게 높았습니다.\n이는 혈액에서 찾은 AM 세포가 신장 조직 내에도 존재함을 유전적으로 증명합니다."
+    "text": "Slide 22: 조직 내 유전자 분석\n조직에서도 확인된 ‘AM의 흔적’\n\n이식 신장 생검(Biopsy) RNA-Seq:\n\nABMR 환자의 신장 조직에서 TBX21 (T-bet), CD27, IL-21R 유전자 발현이 유의하게 높았습니다.\n이는 혈액에서 찾은 AM 세포가 신장 조직 내에도 존재함을 유전적으로 증명합니다."
   },
   {
     "objectID": "page2.html#slide-23-클론-확장-clonal-expansion",
     "href": "page2.html#slide-23-클론-확장-clonal-expansion",
     "title": "Tbet+ B memory",
     "section": "Slide 23: 클론 확장 (Clonal Expansion)",
-    "text": "Slide 23: 클론 확장 (Clonal Expansion)\n\n적을 공격하기 위해 복제된 정예 부대\nB세포 수용체(BCR) 분석:\n\nAM 세포는 특정 IGHV 유전자 (IGHV3-7, 3-15, 3-74 등)를 편중되게 사용합니다.\n이러한 특정 유전자 서열이 신장 조직 내부에서도 똑같이 높게 발견되었습니다.\n\n의미:\n\nAM 세포가 이식 항원을 인지하고 클론 확장(Clonal Expansion)을 일으켜 조직으로 이동했음을 시사합니다."
+    "text": "Slide 23: 클론 확장 (Clonal Expansion)\n적을 공격하기 위해 복제된 정예 부대\n\nB세포 수용체(BCR) 분석:\n\nAM 세포는 특정 IGHV 유전자 (IGHV3-7, 3-15, 3-74 등)를 편중되게 사용합니다.\n이러한 특정 유전자 서열이 신장 조직 내부에서도 똑같이 높게 발견되었습니다.\n\n의미:\n\nAM 세포가 이식 항원을 인지하고 클론 확장(Clonal Expansion)을 일으켜 조직으로 이동했음을 시사합니다."
   },
   {
     "objectID": "page2.html#slide-24-section-4-요약",
     "href": "page2.html#slide-24-section-4-요약",
     "title": "Tbet+ B memory",
     "section": "Slide 24: Section 4 요약",
-    "text": "Slide 24: Section 4 요약\n\n현장 검증 완료\nAM 세포의 증가는 임상적 중증도와 직결됨.\n혈액에만 머무는 것이 아니라, 신장 조직 내로 침투하여 직접 작전을 수행함.\n동일한 유전자 클론이 혈액과 조직 모두에서 발견됨."
+    "text": "Slide 24: Section 4 요약\n현장 검증 완료\n\nAM 세포의 증가는 임상적 중증도와 직결됨.\n혈액에만 머무는 것이 아니라, 신장 조직 내로 침투하여 직접 작전을 수행함.\n동일한 유전자 클론이 혈액과 조직 모두에서 발견됨."
   },
   {
     "objectID": "page2.html#slide-25-연구-결과-종합-요약",
     "href": "page2.html#slide-25-연구-결과-종합-요약",
     "title": "Tbet+ B memory",
     "section": "Slide 25: 연구 결과 종합 요약",
-    "text": "Slide 25: 연구 결과 종합 요약\n\nSummary: AM 세포가 주범이다\n\n\n발견: ABMR 환자에서 T-bet+ IL-21R+ AM B세포가 특이적으로 증가함.\n기전: 이들은 \\(T_{FH}\\) 유래 IL-21에 반응하여 형질 세포로 분화하고 DSA를 생산함.\n임상: 이 세포들은 신장 조직에 침투하며, 빈도가 높을수록 이식 예후가 나쁨."
+    "text": "Slide 25: 연구 결과 종합 요약\nSummary: AM 세포가 주범이다\n\n발견: ABMR 환자에서 T-bet+ IL-21R+ AM B세포가 특이적으로 증가함.\n기전: 이들은 \\(T_{FH}\\) 유래 IL-21에 반응하여 형질 세포로 분화하고 DSA를 생산함.\n임상: 이 세포들은 신장 조직에 침투하며, 빈도가 높을수록 이식 예후가 나쁨."
   },
   {
     "objectID": "page2.html#slide-26-제안하는-병태생리-모델",
     "href": "page2.html#slide-26-제안하는-병태생리-모델",
     "title": "Tbet+ B memory",
     "section": "Slide 26: 제안하는 병태생리 모델",
-    "text": "Slide 26: 제안하는 병태생리 모델\n\nProposed Model: ABMR의 발생 경로\n(Diagram 설명)\n\n이식 항원 자극 -&gt; 종자 중심(Germinal Center) 반응.\nAM B세포 (T-bet+ CD27+) 생성 및 혈액 방출.\n이식 신장 또는 림프 조직에서 \\(T_{FH}\\) 세포와 조우.\nIL-21 신호 수신 -&gt; 형질 세포 분화.\nDSA(항체) 대량 살포 -&gt; 신장 조직 파괴 (ABMR)."
+    "text": "Slide 26: 제안하는 병태생리 모델\nProposed Model: ABMR의 발생 경로\n\n(Diagram 설명)\n\n이식 항원 자극 -&gt; 종자 중심(Germinal Center) 반응.\nAM B세포 (T-bet+ CD27+) 생성 및 혈액 방출.\n이식 신장 또는 림프 조직에서 \\(T_{FH}\\) 세포와 조우.\nIL-21 신호 수신 -&gt; 형질 세포 분화.\nDSA(항체) 대량 살포 -&gt; 신장 조직 파괴 (ABMR)."
   },
   {
     "objectID": "page2.html#slide-27-tlm-세포에-대한-재고",
     "href": "page2.html#slide-27-tlm-세포에-대한-재고",
     "title": "Tbet+ B memory",
     "section": "Slide 27: TLM 세포에 대한 재고",
-    "text": "Slide 27: TLM 세포에 대한 재고\n\nTLM 세포는 왜 늘어났을까?\nExhaustion or Regulation?:\n\nTLM 세포는 억제 수용체를 가진 ‘지친’ 세포입니다.\n아마도 AM 세포의 과도한 활성화를 제어하려는 항상성 유지 기전(Counter-balance)의 일환으로 함께 늘어난 것으로 추정됩니다.\nHIV 감염 등 만성 염증 상황과 유사한 패턴입니다."
+    "text": "Slide 27: TLM 세포에 대한 재고\nTLM 세포는 왜 늘어났을까?\n\nExhaustion or Regulation?:\n\nTLM 세포는 억제 수용체를 가진 ‘지친’ 세포입니다.\n아마도 AM 세포의 과도한 활성화를 제어하려는 항상성 유지 기전(Counter-balance)의 일환으로 함께 늘어난 것으로 추정됩니다.\nHIV 감염 등 만성 염증 상황과 유사한 패턴입니다."
   },
   {
     "objectID": "page2.html#slide-28-임상적-의의-biomarker",
     "href": "page2.html#slide-28-임상적-의의-biomarker",
     "title": "Tbet+ B memory",
     "section": "Slide 28: 임상적 의의 (Biomarker)",
-    "text": "Slide 28: 임상적 의의 (Biomarker)\n\n새로운 예후 예측 바이오마커\nAM 세포 모니터링:\n\n혈액 내 T-bet+ CD27+ AM 세포의 빈도를 측정함으로써 ABMR 발생 위험을 조기에 예측할 수 있습니다.\n특히 침습적인 조직 검사 전, 혈액 검사만으로 거부 반응의 징후를 포착할 수 있는 가능성을 제시합니다."
+    "text": "Slide 28: 임상적 의의 (Biomarker)\n새로운 예후 예측 바이오마커\n\nAM 세포 모니터링:\n\n혈액 내 T-bet+ CD27+ AM 세포의 빈도를 측정함으로써 ABMR 발생 위험을 조기에 예측할 수 있습니다.\n특히 침습적인 조직 검사 전, 혈액 검사만으로 거부 반응의 징후를 포착할 수 있는 가능성을 제시합니다."
   },
   {
     "objectID": "page2.html#slide-29-치료적-의의-therapeutic-targets",
     "href": "page2.html#slide-29-치료적-의의-therapeutic-targets",
     "title": "Tbet+ B memory",
     "section": "Slide 29: 치료적 의의 (Therapeutic Targets)",
-    "text": "Slide 29: 치료적 의의 (Therapeutic Targets)\n\n어떻게 치료할 것인가?\n새로운 치료 타겟 제안:\n\nAM 세포 고갈: T-bet+ B세포를 특이적으로 제거하는 약물 개발.\nIL-21 경로 차단: AM 세포가 형질 세포로 변하는 연결 고리(IL-21/IL-21R)를 끊음.\n\n기대 효과:\n\n기존 면역 억제제보다 더 정밀하게 거부 반응 원인 세포만 타격하여 이식 신장 생존율 향상."
+    "text": "Slide 29: 치료적 의의 (Therapeutic Targets)\n어떻게 치료할 것인가?\n\n새로운 치료 타겟 제안:\n\nAM 세포 고갈: T-bet+ B세포를 특이적으로 제거하는 약물 개발.\nIL-21 경로 차단: AM 세포가 형질 세포로 변하는 연결 고리(IL-21/IL-21R)를 끊음.\n\n기대 효과:\n\n기존 면역 억제제보다 더 정밀하게 거부 반응 원인 세포만 타격하여 이식 신장 생존율 향상."
   },
   {
     "objectID": "page2.html#slide-30-qa-및-마무리",
     "href": "page2.html#slide-30-qa-및-마무리",
     "title": "Tbet+ B memory",
     "section": "Slide 30: Q&A 및 마무리",
-    "text": "Slide 30: Q&A 및 마무리\n\nThank You\n결론: T-bet+ AM B세포와 IL-21 경로는 신장 이식 거부 반응의 핵심 드라이버이며, 차세대 치료의 유망한 표적입니다.\n질의응답 (Q&A)"
+    "text": "Slide 30: Q&A 및 마무리\nThank You\n\n결론: T-bet+ AM B세포와 IL-21 경로는 신장 이식 거부 반응의 핵심 드라이버이며, 차세대 치료의 유망한 표적입니다.\n질의응답 (Q&A)"
   },
   {
     "objectID": "index.html",
