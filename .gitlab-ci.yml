@@ -3,7 +3,7 @@ image: registry.gitlab.com/pages/quarto:latest
 pages:
   script:
     - quarto render 
-    - mv docs public  # <-- 주목할 부분: docs 폴더 사용
+    - mv docs public
 
   artifacts:
     paths:
