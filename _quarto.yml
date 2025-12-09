@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: page1.qmd
+        text: Page 1
         
 format:
   revealjs:
