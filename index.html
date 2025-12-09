@@ -134,8 +134,11 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="페이지-목록">📑 페이지 목록</h3>
 <section id="b-memory-cell" class="level4">
 <h4 class="anchored" data-anchor-id="b-memory-cell">1. B Memory Cell</h4>
-<p>첫번째 발표자료입니다.</p>
-<p><a href="./page1.html">첫번째 발표자료로 이동</a></p>
+<p>첫번째 발표자료입니다. <a href="./page1.html">발표자료로 이동</a></p>
+</section>
+<section id="tbet-actibated-memory-b-cell" class="level4">
+<h4 class="anchored" data-anchor-id="tbet-actibated-memory-b-cell">2. Tbet+ Actibated Memory B cell</h4>
+<p>두번째 발표자료입니다.<a href="./page2.html">발표자료로 이동</a></p>
 
 
 </section>
@@ -232,7 +235,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/Sihwan4\.github\.io\/bmempckt4\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
