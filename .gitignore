@@ -7,5 +7,3 @@
 .quarto/
 _freeze/
 _extensions/
-*.html
-*.pdf
